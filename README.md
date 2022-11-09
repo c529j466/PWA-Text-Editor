@@ -16,6 +16,8 @@ To install this functionality to the Social Network API, run npm run start in th
 
 Heroku Deployed Link: 
 
+https://warm-shore-46330.herokuapp.com/
+
 ## Credits
 
 I recieved help on this project from my instructors, Henry Winget and Chris Sinlasath.
