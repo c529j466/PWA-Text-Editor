@@ -11,6 +11,9 @@ To install this functionality to the Social Network API, run npm run start in th
 
 ## Usage
 
+![Text Editor](./client/src/images/Jate-Screenshot.png?raw=true)
+
+
 Heroku Deployed Link: 
 
 ## Credits
